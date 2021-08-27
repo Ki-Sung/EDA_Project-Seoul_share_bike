@@ -1,5 +1,20 @@
 # EDA_Project-Seoul_share_bike
 
+- 프로젝트 목적: 서울시 공공포털 "**2020 서울시 공공 자전거 이용 현황**" 데이터를 바탕으로 코로나 시국 서울 공공 자전거 이용량 탐색 및 분석
+- 데이터: kaggle의 [인도 중고차 예측하기](https://www.kaggle.com/avikasliwal/used-cars-price-prediction) 데이터셋
+- 프로젝트 기간: 2021.03.26 ~ 2021.04.21
+- 최종 발표일: 2021.04.21
+- 발표자: 김기성
+- [프로젝트 발표 프레젠테이션](https://docs.google.com/presentation/d/1z0IVpmXbb7BUQRCvyXT9ASFUfEokY6FSLG_8pjfrLQA/edit#slide=id.p)
+- 팀원: 
+  - [송강](https://github.com/rivels): 데이터 파악 후EDA, 발표자료에 사용할 그래프 구상
+  - [김기성](https://github.com/Ki-Sung): 데이터 이해를 위해 탐색, 흩어진 12개의 데이터 하나로 정리, EDA
+- 첨삭: 
+  - [박두진 강사님](https://github.com/radajin)
+  - [정현석 클래스 매니저님](https://github.com/FLY-CODE77)
+ - 사용언어 및 패키지
+  - [![Python Badge](http://img.shields.io/badge/-Python%20-blue?style=flat-square&&logoColor=yellow&logo=python&link=https://www.python.org/)](https://www.python.org/) [![Pandas Badge](http://img.shields.io/badge/-Pandas%20-blue?style=flat-square&&logoColor=yellow&logo=pandas&link=https://pandas.pydata.org/)](https://pandas.pydata.org/) [![Matplotlib Badge](http://img.shields.io/badge/-Matplotlib%20-blue?style=flat-square&&logoColor=yellow&logo=matplotlib&link=https://matplotlib.org/)](https://matplotlib.org/) [![Seaborn Badge](http://img.shields.io/badge/-Seaborn%20-blue?style=flat-square&&logoColor=yellow&logo=seaborn&link=https://seaborn.pydata.org/)](https://seaborn.pydata.org/)
+
 ## 개요 1
 ```
 - 등/하원때마다 성수역 앞의 따릉이가 쌓여있는것을 보고 따릉이를 필요한곳에 더, 반납이 많은곳엔 덜 배치해서 따릉이의 이용률을 더 높힐 수 있을까? 라는 의문점에서 출발.
@@ -9,8 +24,6 @@
 
 - 수요가 많은 곳에는 따릉이를 더 배치하고, 반납이 많았던 곳에는 따르이 배치를 덜 해서 효율성과 경제성을 도모 할 수 있는 인사이트 제시  
  ```
-  
-  
   
 ## 개요 2
 ~~~
